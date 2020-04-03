@@ -1,0 +1,13 @@
+Bonjour,
+
+Dans ce repo vous trouverez les fichiers nécessaires pour faire marcher ma todo list.
+Les fichiers "fonctions" contiennent des fonctions de contrôle et d'affichage que j'ai sorties du main pour l'alléger.
+Les fichiers "Task" contiennt la définition de ma classe Task.
+Il suffit de compiler puis d'exécuter le main_final.cpp avec fonctions_final.cpp et task_final.cpp.
+Toutes les commandes et informations sont données par le programme.
+
+La seule chose à faire est de rentrer l'adresse où vous souhaitez stocker les fichiers de sauvegarde des tâches, dans const string chemin à la ligne 16 du main.
+
+Bonne journée, et veuillez m'excuser du retard, le réseau de Picardie ne fonctionnant malheureusement pas 7jours sur 7...
+
+Vincent Lannelongue
